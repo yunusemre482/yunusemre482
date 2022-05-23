@@ -50,7 +50,7 @@ Hi, I am Yunus Emre, a junior **self-taughted** FullStack web developer from Tur
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1nbow1&repo=weather_app&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Ra1nbow's Stats" />
 </a>
 <a href="https://github.com/Ra1nbow1/py_games">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1nbow1&repo=py_games&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Ra1nbow's Stats" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=yunusemre482&repo=py_games&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Ra1nbow's Stats" />
 </a> -->
 <!-- <a href="https://ra1nbow.xyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ra1nbow1&layout=compact" alt="Ra1nbow's Stats" />
