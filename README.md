@@ -36,8 +36,8 @@ Hi, I am Yunus Emre, a junior **self-taughted** FullStack web developer from Tur
 <br />
 <br />
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yunusemre482&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=yunusemre482&show_icons=true&theme=light&hide_border=false" width="%100" height="200px">
 </div>
 
 </a>
