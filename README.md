@@ -36,7 +36,9 @@ Hi, I am Yunus Emre, a junior **self-taughted** FullStack web developer from Tur
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusemre482&show_icons=true&theme=radical)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yunusemre482&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+</div>
 
 </a>
 <br>
@@ -45,15 +47,3 @@ Hi, I am Yunus Emre, a junior **self-taughted** FullStack web developer from Tur
 <br />
 
 ![](https://komarev.com/ghpvc/?username=yunusemre482&color=dc143c)
-
-<!-- <a href="https://github.com/Ra1nbow1/weather_app">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1nbow1&repo=weather_app&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Ra1nbow's Stats" />
-</a>
-<a href="https://github.com/Ra1nbow1/py_games">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=yunusemre482&repo=py_games&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Ra1nbow's Stats" />
-</a> -->
-<!-- <a href="https://ra1nbow.xyz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ra1nbow1&layout=compact" alt="Ra1nbow's Stats" />
-</a> -->
-
-<!--  https://naereen.github.io/badges/ All available badges-->
