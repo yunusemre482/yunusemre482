@@ -6,12 +6,12 @@ I am a junior **self-taughted** FullStack web developer from Turekey.
 
 Passionate about leveraging Nest.js, Node.js, and AWS cloud technologies to architect and build scalable backend solutions. Proficient in developing applications utilizing AWS services such as S3, Kinesis, Lambda, CloudWatch, EC2, and Elastic Beanstalk. Skilled in optimizing backend systems for performance and reliability, with a focus on delivering efficient solutions that drive business growth.
 
-🔹 Nest.js Framework Expertise
-🔹 Node.js Development
-🔹 AWS Cloud Services (S3, Kinesis, Lambda, CloudWatch, EC2, Elastic Beanstalk,ElasticCache,CodeBuild ,CodePipeline)
-🔹 Scalable Backend Architecture
-🔹 Performance Optimization
-🔹 API Development and Integration
+🔹 Nest.js Framework Expertise <br/>
+🔹 Node.js Development  <br/>
+🔹 AWS Cloud Services (S3, Kinesis, Lambda, CloudWatch, EC2, Elastic Beanstalk,ElasticCache,CodeBuild ,CodePipeline)  <br/>
+🔹 Scalable Backend Architecture  <br/>
+🔹 Performance Optimization  <br/>
+🔹 API Development and Integration  <br/>
 
 - 💬 Ask me about anything [here](https://github.com/yunusemre482/yunusemre482/issues)
 
