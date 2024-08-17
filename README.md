@@ -1,11 +1,18 @@
 ### Hi there, I'm Yunus Emre 
  
  
-Hi, I am Yunus Emre, a junior **self-taughted** FullStack web developer from Turekey.
+I am a junior **self-taughted** FullStack web developer from Turekey.
 <br />
 
-- 🔭 I’m currently working @holonext'
-- 🌱 I’m currently learning ReactJs and THREE.js for frontend development
+Passionate about leveraging Nest.js, Node.js, and AWS cloud technologies to architect and build scalable backend solutions. Proficient in developing applications utilizing AWS services such as S3, Kinesis, Lambda, CloudWatch, EC2, and Elastic Beanstalk. Skilled in optimizing backend systems for performance and reliability, with a focus on delivering efficient solutions that drive business growth.
+
+🔹 Nest.js Framework Expertise
+🔹 Node.js Development
+🔹 AWS Cloud Services (S3, Kinesis, Lambda, CloudWatch, EC2, Elastic Beanstalk,ElasticCache,CodeBuild ,CodePipeline)
+🔹 Scalable Backend Architecture
+🔹 Performance Optimization
+🔹 API Development and Integration
+
 - 💬 Ask me about anything [here](https://github.com/yunusemre482/yunusemre482/issues)
 
 <br />
